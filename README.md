@@ -17,6 +17,7 @@ Each skill:
 - Can be reused by others with similar needs
 
 ## Demo
+https://www.loom.com/share/7baf7a9aabc04023a8d4ad4091dae202
 A short demo video is included to showcase how the skills work in practice.
 
 ## Author
